@@ -1,0 +1,50 @@
+.form{
+    /* marginTop: "40px",width:"50%",backgroundColor:"antiquewhite"  */
+    width: 50%;
+    /* background-color: antiquewhite; */
+    line-height: 2;
+    display: flex;
+  
+}
+.app{
+    display: flex;
+    text-align: center;
+}
+.tableDiv{
+    width: 50%;
+    /* background-color: cornsilk; */
+    margin-top: "40px";
+    text-align: center;
+
+}
+input{
+  height: 25px;
+}
+.input1{
+  margin-left: 24px;
+}
+.input2{
+  margin-left: 40px;
+}
+.input3{
+  margin-left: 12px;
+}
+select{
+  height: 30px;
+  width: 43%;
+}
+.ms{
+  margin-left: -134px;
+}
+.table {
+    border: 2px solid black;
+    width: 98%;
+  }
+    
+.th {
+    border-bottom: 1px solid black;
+  }
+    
+.td {
+    text-align: center;
+  }
